@@ -1,0 +1,53 @@
+.Logo {
+    height: 2em;
+    position: relative;
+    top: 3px;
+}
+@media (max-width: 500px){
+    .Logo{
+        height: 24px;
+    }
+}
+
+.Menu{
+    padding-left: 4%;
+    padding-right: 4%;
+    height: 68px;
+    width: 100%;
+    z-index: 100;
+
+    position: fixed;
+    top: 0px;
+    left: 0px;
+
+    background-color: rgb(20, 20, 20);
+    background: linear-gradient(180deg, black, transparent);
+
+    display: flex;
+    align-items: center;
+
+    transition: background-color 0.4s ease;
+}
+
+body:not([scroll-top='0']) .Menu{
+    background-color: rgb(20, 20, 20);
+}
+
+.ButtonLink{
+    border: 1px solid rgb(153, 153, 153);
+    padding: 0.57em 1.35em;
+    font-size: 95%;
+    text-decoration: none;
+}
+
+.ButtonLink:hover{
+    background-color: #ffffff17;
+}
+
+.ButtonLink:focus{
+    box-shadow: 0px 0px 0 2px #ffffffEE;
+}
+
+.ButtonLink:active{
+    background-color: #ffffff0F;
+}
