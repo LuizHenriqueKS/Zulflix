@@ -5,7 +5,6 @@ import FormField from '../../../components/FormField';
 
 function CadastroCategoria() {
   const [categorias, setCategorias] = useState([]);
-  const [nomeDaCategoria, setNomeDaCategoria] = useState('');
 
   const valoresIniciais = {
     nome: '',
