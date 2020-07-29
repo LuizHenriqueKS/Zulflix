@@ -18,6 +18,10 @@
           "url": "https://www.youtube.com/watch?v=uqskSRxXTz8"
         },
         {
+          "titulo": "Rap do Gaara (Naruto) - ACHO QUE EU SOU UM MONSTRO... | NERD HITS",
+          "url": "https://www.youtube.com/watch?v=KWqngXyY6_w"
+        },
+        {
           "titulo": "Rap do Flash - O HOMEM MAIS RÁPIDO DO MUNDO | NERD HITS",
           "url": "https://www.youtube.com/watch?v=tKtV1InzvWM"
         },
@@ -46,150 +50,228 @@
           "url": "https://www.youtube.com/watch?v=XbUvowjHsAk"
         },
         {
-          "titulo": "https://www.youtube.com/watch?v=BNakihwBX_M",
+          "titulo": "Rap do Homem-Formiga - SOLDADO MICROSCÓPICO | NERD HITS",
           "url": "https://www.youtube.com/watch?v=BNakihwBX_M"
         },
         {
-          "titulo": "https://www.youtube.com/watch?v=BNakihwBX_M",
-          "url": "https://www.youtube.com/watch?v=BNakihwBX_M"
+          "titulo": "Rap do Doutor Estranho - MAGO SUPREMO DO UNIVERSO | NERD HITS",
+          "url": "https://www.youtube.com/watch?v=AW7JllAXiBc"
+        },
+        {
+          "titulo": "Rap do Loki (Thor) - O DEUS DA MENTIRA | NERD HITS",
+          "url": "https://www.youtube.com/watch?v=NiLIKstxk7U"
+        },
+        {
+          "titulo": "Rap do Rock Lee (Naruto) - A FORÇA DA MOTIVAÇÃO | NERD HITS",
+          "url": "https://www.youtube.com/watch?v=XwAzVXBjvNo"
+        },
+        {
+          "titulo": "Rap da Hinata (Naruto) - SE FOR POR VOCÊ... | NERD HITS",
+          "url": "https://www.youtube.com/watch?v=eWZ4V4IGcb4"
+        },
+        {
+          "titulo": "Rap do Maito Gai (Naruto) - O NINJA MAIS FORTE | NERD HITS",
+          "url": "https://www.youtube.com/watch?v=i_NDEiPtnp8"
+        },
+        {
+          "titulo": "Rap do Freeza (Dragon Ball Super) - IMPERADOR DO UNIVERSO | NERD HITS",
+          "url": "https://www.youtube.com/watch?v=9LPhHsjOm7U"
+        },
+        {
+          "titulo": "Rap do Coringa (Batman) - POR QUE ESTÁ TÃO SÉRIO? | NERD HITS",
+          "url": "https://www.youtube.com/watch?v=9qhhY-YKLp0&t=1s"
+        },
+        {
+          "titulo": "Rap do Goku e Vegeta (Dragon Ball Super) - O HOMEM MAIS FORTE DO UNIVERSO | NERD HITS",
+          "url": "https://www.youtube.com/watch?v=KRXrDOtta10"
+        },
+        {
+          "titulo": "Rap do All Might (Boku no Hero Academia) - O SÍMBOLO DA PAZ | NERD HITS",
+          "url": "https://www.youtube.com/watch?v=JhYqNZNGLMM"
+        },
+        {
+          "titulo": "Rap do Escanor (Nanatsu no Taizai) - ORGULHOSO COMO UM LEÃO | NERD HITS",
+          "url": "https://www.youtube.com/watch?v=xAftKacljfo"
+        },
+        {
+          "titulo": "Rap do Midoriya (Boku no Hero Academia) - EU TENHO QUE ACREDITAR | NERD HITS",
+          "url": "https://www.youtube.com/watch?v=f3pfiUgL-PU"
         }
       ]
     },
     {
-      "titulo": "Back End",
-      "cor": "#00C86F",
+      "titulo": "Enygma",
+      "cor": "rgb(101 103 102)",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
+        "text": "Canal do Enygma",
+        "url": "https://www.youtube.com/c/EnygmaRaps/"
       },
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "Rap do Zoro (One Piece) | O Melhor Espadachim | Enygma 63",
+          "url": "https://www.youtube.com/watch?v=8ko7S4Sli4w"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "Rap do Yuu Otosaka (Charlotte) | O Ceifador Caolho | Enygma 64",
+          "url": "https://www.youtube.com/watch?v=QV8gf8WuJYw"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "titulo": "Rap do Escanor (Nanatsu no Taizai) | Pecado do Orgulho | Enygma 37",
+          "url": "https://www.youtube.com/watch?v=BHX2RcETZWY"
         },
         {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+          "titulo": "Rap do All Might (Boku no Hero Academia) | Símbolo da Paz | Enygma 32",
+          "url": "https://www.youtube.com/watch?v=BgiaC4_T6Q4"
         },
         {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "Rap do Midoriya Pt. II (Boku no Hero Academia) | Enygma 22 [prod. Epistra]",
+          "url": "https://www.youtube.com/watch?v=87VF_BZ1-n8"
         }
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
-      "cor": "#9cd33b",
+      "titulo": "Prometeus",
+      "cor": "rgb(117 59 211)",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
+        "text": "Canal do Prometeus",
+        "url": "https://www.youtube.com/c/canalprometeus/"
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "FANTASMA DO PASSADO (ft. Thiago Gouvin)",
+          "url": "https://www.youtube.com/watch?v=Zn2ApWN51pk"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "UMA NOVA JORNADA (A New Journey / LoL Anime Trailer / Português)",
+          "url": "https://www.youtube.com/watch?v=JJ--E4I8Owo"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
-        },
-        {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "GUARDIÃO ESTELAR ♪",
+          "url": "https://www.youtube.com/watch?v=BJ_Ed5BcPvA"
         }
       ]
     },
     {
-      "titulo": "Filmes",
-      "cor": "orange",
-      "videos": [
-        {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
-        },
-        {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
-        },
-        {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
-        },
-        {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
-        }
-      ]
-    },
-    {
-      "titulo": "Games",
-      "cor": "red",
+      "titulo": "Felícia Rock",
+      "cor": "pink",
       "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
+        "text": "Canal da Felicia Rock",
+        "url": "https://www.youtube.com/c/Fel%C3%ADciaRockOficial/"
       },
       "videos": [
         {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+          "titulo": "RAP EXISTENCIAL - \"Tô Distante\" (ANIME MIX) | FELÍCIA ROCK [Prod. ]",
+          "url": "https://www.youtube.com/watch?v=9-_ZCxbv7Ks"
         },
         {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+          "titulo": "POR NÓS DOIS - Tanjiro & Nezuko (KIMETSU NO YAIBA) FELÍCIA ROCK [Prod. Sidney Scaccio]",
+          "url": "https://www.youtube.com/watch?v=xaMHvN2eZRw"
         },
         {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+          "titulo": "A FORÇA EM MEU OLHAR - Hinata Hyuga (NARUTO) FELÍCIA ROCK",
+          "url": "https://www.youtube.com/watch?v=p43ZIpdDh48"
         },
         {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+          "titulo": "HERÓI DO ESCUDO - Naofumi (TATE NO YUUSHA) | FELÍCIA ROCK [Prod. Sidney Scaccio]",
+          "url": "https://www.youtube.com/watch?v=e_dn7Nq9n9k"
         },
         {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+          "titulo": "SEREI TUA ESPADA ( Raphtalia - TATE NO YUUSHA) | FELÍCIA ROCK",
+          "url": "https://www.youtube.com/watch?v=0MXp-w-3TJg"
+        },
+        {
+          "titulo": "A COR DA MORTE (MISAKI MEI - ANOTHER) | FELÍCIA ROCK",
+          "url": "https://www.youtube.com/watch?v=fdZyiy-Clf8"
+        },
+        {
+          "titulo": "RAP DA MAKISE KURISU (STEINS GATE) | FELÍCIA ROCK",
+          "url": "https://www.youtube.com/watch?v=hJ8TbKvFhP0"
+        },
+        {
+          "titulo": "RAP DA KUSHIDA - YOU JITSU - DUPLA FACE | FELÍCIA ROCK",
+          "url": "https://www.youtube.com/watch?v=9gFfZUw53bI"
+        },
+        {
+          "titulo": "RAP DO KANEKI - TOKYO GHOUL- Me Pergunto: quem eu sou? | FELÍCIA ROCK",
+          "url": "https://www.youtube.com/watch?v=u4UQkf17Jog"
+        },
+        {
+          "titulo": "RAP DA PANDORA - CAVALEIROS DO ZODÍACO [SAINT SEIYA] FELÍCIA ROCK",
+          "url": "https://www.youtube.com/watch?v=U7PR9_jelr4"
         }
       ]
     },
     {
-      "titulo": "Aprendendo a aprender tecnologia",
-      "cor": "#6b5be2",
+      "titulo": "Stings Raps",
+      "cor": "#9c9c04",
       "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
-        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+        "text": "Canal do Stings Raps",
+        "url": "https://www.youtube.com/c/StingRaps/videos"
       },
       "videos": [
         {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+          "titulo": "Rap do Sung Jin Woo (Solo Leveling) | Monarca das Sombras | Sting",
+          "url": "https://www.youtube.com/watch?v=NazO2IoXjE4"
         },
         {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+          "titulo": "Rap da Rias Gremory - (High School DxD) - A PRINCESA DA RUÍNA - Sting",
+          "url": "https://www.youtube.com/watch?v=6YMbzMzVAhE"
         },
         {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "Rap do Luck \"O Louco Sorridente\" (Black Clover) - Sting/Yondax",
+          "url": "https://www.youtube.com/watch?v=H1l1kGxQg64"
         },
         {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+          "titulo": "Rap do Cao Cao - Humano - (High School DxD Hero) - Sting",
+          "url": "https://www.youtube.com/watch?v=waXOLRDQExY"
         },
         {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+          "titulo": "Rap Me Sinto Só - (High School DxD) - Sting",
+          "url": "https://www.youtube.com/watch?v=BzsMjPiqgHQ"
+        }
+      ]
+    },
+    {
+      "titulo": "Lendarios",
+      "cor": "rgba(46, 46, 46)",
+      "link_extra": {
+        "text": "Canal do Lendarios",
+        "url": "https://www.youtube.com/c/Lendarios/"
+      },
+      "videos": [
+        {
+          "titulo": "RAP THE PROMISSED NEVERLAND - Liberdade (Acústico) | Lendarios",
+          "url": "https://www.youtube.com/watch?v=sw1l48uikIk"
+        },
+        {
+          "titulo": "RAP DO ITACHI (Naruto) - Não Peço Que Possa Me Perdoar | Lendarios",
+          "url": "https://www.youtube.com/watch?v=23MRhUwpfXk"
+        },
+        {
+          "titulo": "RAP DO ALL MIGHT - VOU SEMPRE SORRIR | Lendarios",
+          "url": "https://www.youtube.com/watch?v=RVnRo25MQwQ"
+        }
+      ]
+    },
+    {
+      "titulo": "Lendarios",
+      "cor": "rgb(255, 46, 46)",
+      "link_extra": {
+        "text": "Canal do Lendarios",
+        "url": "https://www.youtube.com/c/Lendarios/"
+      },
+      "videos": [
+        {
+          "titulo": "RAP THE PROMISSED NEVERLAND - Liberdade (Acústico) | Lendarios",
+          "url": "https://www.youtube.com/watch?v=sw1l48uikIk"
+        },
+        {
+          "titulo": "RAP DO ITACHI (Naruto) - Não Peço Que Possa Me Perdoar | Lendarios",
+          "url": "https://www.youtube.com/watch?v=23MRhUwpfXk"
+        },
+        {
+          "titulo": "RAP DO ALL MIGHT - VOU SEMPRE SORRIR | Lendarios",
+          "url": "https://www.youtube.com/watch?v=RVnRo25MQwQ"
         }
       ]
     }
