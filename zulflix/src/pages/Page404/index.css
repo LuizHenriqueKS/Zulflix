@@ -1,0 +1,19 @@
+.Page404{
+  background-color: #f6f6f6;
+  height: 100%;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.Page404 > *{
+  top: -0px;
+  position: relative;
+}
+
+.PageNotFoundText{
+  color: #0000009c;
+  font-size: 2em;
+}
