@@ -1,46 +1,58 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
+      "titulo": "7 Minutoz",
       "link": "https://www.alura.com.br/formacao-front-end",
-      "cor": "#6BD1FF",
+      "cor": "rgb(147 42 42)",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Canal 7 Minutoz",
+        "url": "https://www.youtube.com/c/7minutoz/"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "Rap do Saitama (One Punch Man) - O HOMEM MAIS FORTE | NERD HITS",
+          "url": "https://www.youtube.com/watch?v=NlQpa0ifFy8"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "Rap do Boruto - FILHO DE UM HOKAGE | NERD HITS",
+          "url": "https://www.youtube.com/watch?v=uqskSRxXTz8"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "Rap do Flash - O HOMEM MAIS RÁPIDO DO MUNDO | NERD HITS",
+          "url": "https://www.youtube.com/watch?v=tKtV1InzvWM"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "TE FALTA ÓDIO - Gabriel Rodrigues e Lucas A.R.T. [Prod. bezimenimusic]",
+          "url": "https://www.youtube.com/watch?v=dNCO-UgMu6A"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "Rap do Homem de Ferro (Vingadores: Ultimato) - EU SOU O HOMEM DE FERRO | NERD HITS",
+          "url": "https://www.youtube.com/watch?v=R-9hB553mz4"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "Rap do Sasuke (Naruto) - MALDIÇÃO DO ÓDIO | NERD HITS",
+          "url": "https://www.youtube.com/watch?v=WYJ2hKTXKWA"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+          "titulo": "Rap do Thanos (Vingadores) - O THANOS ESTÁ VINDO | NERD HITS",
+          "url": "https://www.youtube.com/watch?v=1kwPr91Vs-A"
         },
         {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        }        
+          "titulo": "Rap do Gohan (Dragon Ball Z) - A FÚRIA DE UM SAIYAJIN | NERD HITS",
+          "url": "https://www.youtube.com/watch?v=0QQWwrs39As"
+        },
+        {
+          "titulo": "Rap do Bills (Dragon Ball Super) - DEUS DA DESTRUIÇÃO | NERD HITS",
+          "url": "https://www.youtube.com/watch?v=XbUvowjHsAk"
+        },
+        {
+          "titulo": "https://www.youtube.com/watch?v=BNakihwBX_M",
+          "url": "https://www.youtube.com/watch?v=BNakihwBX_M"
+        },
+        {
+          "titulo": "https://www.youtube.com/watch?v=BNakihwBX_M",
+          "url": "https://www.youtube.com/watch?v=BNakihwBX_M"
+        }
       ]
     },
     {
@@ -66,7 +78,7 @@
         {
           "titulo": "API: Dicionário do Programador",
           "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
-        }, 
+        },
         {
           "titulo": "Usando Git Direito",
           "url": "https://www.youtube.com/watch?v=6OokP-NE49k"

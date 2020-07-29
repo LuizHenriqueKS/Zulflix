@@ -20,8 +20,8 @@
     top: 0px;
     left: 0px;
 
-    background-color: rgb(20, 20, 20);
-    background: linear-gradient(180deg, black, transparent);
+    background-color: var(--MenuBg);
+    background: linear-gradient(180deg, var(--MenuBg), transparent);
 
     display: flex;
     align-items: center;
@@ -29,8 +29,13 @@
     transition: background-color 0.4s ease;
 }
 
+#root:not([component='Home']) .Menu{
+    border-bottom: 2px solid var(--primary);
+    background-color: var(--MenuBg);;
+}
+
 body:not([scroll-top='0']) .Menu{
-    background-color: rgb(20, 20, 20);
+    background-color: var(--MenuBg);
 }
 
 .ButtonLink{

@@ -21,7 +21,7 @@ export default function BannerMain({
   return (
     <BannerMainContainer backgroundImage={bgUrl}>
       <ContentAreaContainer>
-        <ContentAreaContainer.Item>
+        <ContentAreaContainer.Item className="textVideo">
           <ContentAreaContainer.Title>
             {videoTitle}
           </ContentAreaContainer.Title>

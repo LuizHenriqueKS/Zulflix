@@ -48,6 +48,7 @@ const Slider = ({ children }) => (
       centerMode: false,
       variableWidth: true,
       adaptiveHeight: true,
+      slidesToScroll: 4
     }}
     >
       {children}
