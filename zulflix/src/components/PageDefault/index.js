@@ -1,7 +1,7 @@
 import React from 'react';
 import Menu from '../Menu';
 import Footer from '../Footer';
-import styled from 'styled-components';
+import styled from "styled-components";
 
 const Main = styled.main`
   background-color: var(--black);
@@ -13,7 +13,6 @@ const Main = styled.main`
   padding-bottom: 8px;
   min-height: calc(100% - 156px);
 `;
-
 
 function PageDefault({ children }) {
   return (

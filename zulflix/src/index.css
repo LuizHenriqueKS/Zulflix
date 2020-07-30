@@ -79,10 +79,6 @@ label span {
   transform: scale(0.6) translateY(-10px);
 }
 
-textarea.input{
-  height: 100px!important;
-}
-
 .input {
   box-sizing: border-box;
   font-family: "Roboto",sans-serif;
@@ -143,7 +139,6 @@ button:active{
   color: rgb(245, 245, 245);
   display: block;
   width: 100%;
-  height: 57px;
   font-size: 18px;
   border-right-style: initial;
   border-left-style: initial;
@@ -157,7 +152,6 @@ button:active{
   border-image: initial;
   border-top: 4px solid transparent;
   border-bottom: 4px solid rgb(83, 88, 93);
-  padding: 16px;
   transition: border-color 0.3s ease 0s;
   border-bottom-color: var(--primary);
 }

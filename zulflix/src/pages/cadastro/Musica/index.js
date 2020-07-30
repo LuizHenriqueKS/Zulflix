@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 import PageDefault from '../../../components/PageDefault';
 
 function CadastroMusica() {
-  document.getElementById("root").setAttribute("component", "CadastroMusica");
+  document.getElementById('root').setAttribute('component', 'CadastroMusica');
   return (
     <PageDefault>
       <h1>Cadastro de música</h1>
@@ -12,7 +12,7 @@ function CadastroMusica() {
         Cadastrar de categoria
       </Link>
     </PageDefault>
-  )
+  );
 }
 
-export default CadastroMusica; 
+export default CadastroMusica;

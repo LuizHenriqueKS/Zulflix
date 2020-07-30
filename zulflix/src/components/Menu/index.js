@@ -1,23 +1,23 @@
 import React from 'react';
-import { Link } from 'react-router-dom'
-import Logo from '../../assets/img/Logo.png'
+import { Link } from 'react-router-dom';
+import Logo from '../../assets/img/Logo.png';
 import Button from '../Button';
-import './Menu.css'
+import './Menu.css';
 
 function Menu() {
-    return (
-        <nav className="Menu">
-            <Link to="/">
-                <img className="Logo" src={Logo} alt="Zulflix" />
-            </Link>
+  return (
+    <nav className="Menu">
+      <Link to="/">
+        <img className="Logo" src={Logo} alt="Zulflix" />
+      </Link>
 
-            <div className="flex-grow-1" />
+      <div className="flex-grow-1" />
 
-            <Button as={Link} className="ButtonLink" to="/cadastro/musica">
-                Novo música
-            </Button>
-        </nav>
-    );
+      <Button as={Link} className="ButtonLink" to="/cadastro/musica">
+        Novo música
+      </Button>
+    </nav>
+  );
 }
 
 export default Menu;
