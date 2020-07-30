@@ -14,6 +14,7 @@ function CadastroCategoria() {
   const [values, setValues] = useState(valoresIniciais);
 
   const setValue = (chave, valor) => setValues({ ...values, [chave]: valor });
+
   const handleChange = (event) => setValue(event.target.getAttribute('name'), event.target.value);
 
   document.getElementById("root").setAttribute("component", "CadastroCategoria");
