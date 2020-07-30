@@ -20,7 +20,7 @@ function CadastroCategoria() {
   document.getElementById('root').setAttribute('component', 'CadastroCategoria');
 
   useEffect(() => {
-    const URL_TOP = window.localtion.hostname.includes('localhost') ? 'http://localhost:8080/categorias' : 'http://localhost:8080/categorias';
+    const URL_TOP = window.localtion.hostname.includes('localhost') ? 'http://localhost:8080/categorias' : 'https://zulflix.herokuapp.com/categorias';
     fetch(URL_TOP)
       .then(async (respostaDoServidor) => respostaDoServidor.json())
       .then(async (respostaConvertidaEmObj) => setCategorias([...respostaConvertidaEmObj]));
