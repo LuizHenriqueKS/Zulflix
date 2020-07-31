@@ -2,27 +2,22 @@ import React, { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
 import PageDefault from '../../../components/PageDefault';
 import FormField from '../../../components/FormField';
+import useForm from '../../../hooks/useForm';
+import categoriasRepository from '../../../repositories/categorias';
 
 function CadastroCategoria() {
-  const [categorias, setCategorias] = useState([]);
-
   const valoresIniciais = {
-    nome: '',
+    titulo: '',
     descricao: '',
     cor: '#000',
   };
-  const [values, setValues] = useState(valoresIniciais);
 
-  const setValue = (chave, valor) => setValues({ ...values, [chave]: valor });
+  const { values, handleChange, clearForm } = useForm(valoresIniciais);
 
-  const handleChange = (event) => setValue(event.target.getAttribute('name'), event.target.value);
-
-  document.getElementById('root').setAttribute('component', 'CadastroCategoria');
+  const [categorias, setCategorias] = useState([]);
 
   useEffect(() => {
-    const URL_TOP = window.location.hostname.includes('localhost') ? 'http://localhost:8080/categorias' : 'https://zulflix.herokuapp.com/categorias';
-    fetch(URL_TOP)
-      .then(async (respostaDoServidor) => respostaDoServidor.json())
+    categoriasRepository.getAll()
       .then(async (respostaConvertidaEmObj) => setCategorias([...respostaConvertidaEmObj]));
   }, []);
 
@@ -31,12 +26,12 @@ function CadastroCategoria() {
       <h1>
         Cadastro de categoria:
         {' '}
-        {values.nome}
+        {values.titulo}
       </h1>
 
       <form onSubmit={(event) => {
         setCategorias([...categorias, values]);
-        setValues({ ...valoresIniciais });
+        clearForm();
         event.preventDefault();
       }}
       >
@@ -44,10 +39,10 @@ function CadastroCategoria() {
         <div>
 
           <FormField
-            name="nome"
+            name="titulo"
             label="Nome da categoria"
             type="text"
-            value={values.nome}
+            value={values.titulo}
             onChange={handleChange}
           />
 
@@ -69,7 +64,7 @@ function CadastroCategoria() {
 
         </div>
 
-        <button className="mr-3" type="button">
+        <button className="mr-3" type="submit">
           Cadastrar
         </button>
 
@@ -87,8 +82,8 @@ function CadastroCategoria() {
 
       <ul>
         {categorias.map(((categoria) => (
-          <li key={`${categoria.nome}_${categoria.cor}`}>
-            {categoria.nome}
+          <li key={`${categoria.titulo}_${categoria.cor}`}>
+            {categoria.titulo}
           </li>
         )))}
       </ul>

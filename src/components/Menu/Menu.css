@@ -29,7 +29,7 @@
     transition: background-color 0.4s ease;
 }
 
-#root:not([component='Home']) .Menu{
+.Menu:not([transparente="true"]){
     border-bottom: 2px solid var(--primary);
     background-color: var(--MenuBg);;
 }

@@ -3,9 +3,9 @@ import './util.css';
 
 import React from 'react';
 import ReactDOM from 'react-dom';
-import ListenScroll from './scrollListener.js';
-
 import { BrowserRouter, Switch, Route } from 'react-router-dom';
+import ListenScroll from './scrollListener';
+
 import Home from './pages/Home';
 import CadastroMusica from './pages/cadastro/Musica';
 import CadastroCategoria from './pages/cadastro/Categoria';
@@ -20,7 +20,7 @@ ReactDOM.render(
       <Route component={Page404} />
     </Switch>
   </BrowserRouter>,
-  document.getElementById('root')
+  document.getElementById('root'),
 );
 
 ListenScroll();

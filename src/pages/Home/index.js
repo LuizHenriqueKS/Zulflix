@@ -1,49 +1,52 @@
-import React from 'react';
-import Menu from '../../components/Menu'
-import dadosIniciais from '../../data/dados_iniciais.json';
+import React, { useEffect, useState } from 'react';
+import categoriasRepository from '../../repositories/categorias';
+import PageDefault from '../../components/PageDefault';
 import BannerMain from '../../components/BannerMain';
 import Carousel from '../../components/Carousel';
-import Footer from '../../components/Footer';
 
 function Home() {
-  document.getElementById("root").setAttribute("component", "Home");
+  const [dadosIniciais, setDadosInicias] = useState([]);
+
+  useEffect(() => {
+    categoriasRepository.getAllWithVideos()
+      .then((categoriasComVideos) => {
+        setDadosInicias(categoriasComVideos);
+      })
+      .catch((err) => {
+        console.log(err);
+      });
+  }, []);
+
   return (
-    <div style={{ background: "#141414" }}>
-      <Menu />
+    <PageDefault paddingAll={0} menuTransparente={dadosIniciais.length > 0}>
 
-      <BannerMain
-        videoTitle={dadosIniciais.categorias[0].videos[0].titulo}
-        url={dadosIniciais.categorias[0].videos[0].url}
-        videoDescription={"Algumas das melhores músicas de animes."}
-      />
+      {dadosIniciais.length === 0 && (<div>Loading...</div>)}
 
-      <Carousel
-        ignoreFirstVideo
-        category={dadosIniciais.categorias[0]}
-      />
+      {dadosIniciais.length > 0 && (
+        <>
+          <BannerMain
+            videoTitle={dadosIniciais[0]?.videos[0]?.titulo}
+            url={dadosIniciais[0]?.videos[0]?.url}
+            videoDescription="Algumas das melhores músicas de animes."
+          />
 
-      <Carousel
-        category={dadosIniciais.categorias[1]}
-      />
+          <Carousel
+            ignoreFirstVideo
+            category={dadosIniciais[0]}
+          />
+        </>
+      )}
 
-      <Carousel
-        category={dadosIniciais.categorias[2]}
-      />
+      {dadosIniciais.slice(1).map((categoria) => (
+        <>
+          <Carousel
+            ignoreFirstVideo
+            category={categoria}
+          />
+        </>
+      ))}
 
-      <Carousel
-        category={dadosIniciais.categorias[3]}
-      />
-
-      <Carousel
-        category={dadosIniciais.categorias[4]}
-      />
-
-      <Carousel
-        category={dadosIniciais.categorias[5]}
-      />
-
-      <Footer />
-    </div>
+    </PageDefault>
   );
 }
 

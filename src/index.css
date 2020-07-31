@@ -31,9 +31,9 @@ body {
   background: #000;
 }
 
-main {
-  max-width: 900px;
-  margin: auto;
+main{
+  margin: 0;
+  padding: 0;
 }
 
 ul {

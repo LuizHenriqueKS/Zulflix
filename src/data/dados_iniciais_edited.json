@@ -54,6 +54,15 @@
       "cor": "rgba(46, 46, 46)",
       "titulo": "Lendarios",
       "id": 6
+    },
+    {
+      "link_extra": {
+        "text": "Canal do Lendarios",
+        "url": "https://www.youtube.com/c/Lendarios/"
+      },
+      "cor": "rgb(255, 46, 46)",
+      "titulo": "Lendarios",
+      "id": 7
     }
   ],
   "videos": [
@@ -344,6 +353,24 @@
       "id": 48,
       "url": "https://www.youtube.com/watch?v=RVnRo25MQwQ",
       "categoriaId": 6
+    },
+    {
+      "titulo": "RAP THE PROMISSED NEVERLAND - Liberdade (Acústico) | Lendarios",
+      "id": 49,
+      "url": "https://www.youtube.com/watch?v=sw1l48uikIk",
+      "categoriaId": 7
+    },
+    {
+      "titulo": "RAP DO ITACHI (Naruto) - Não Peço Que Possa Me Perdoar | Lendarios",
+      "id": 50,
+      "url": "https://www.youtube.com/watch?v=23MRhUwpfXk",
+      "categoriaId": 7
+    },
+    {
+      "titulo": "RAP DO ALL MIGHT - VOU SEMPRE SORRIR | Lendarios",
+      "id": 51,
+      "url": "https://www.youtube.com/watch?v=RVnRo25MQwQ",
+      "categoriaId": 7
     }
   ]
 }
