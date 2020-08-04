@@ -1,0 +1,357 @@
+[
+  {
+    "link_extra": {
+      "text": "Canal 7 Minutoz",
+      "url": "https://www.youtube.com/c/7minutoz/"
+    },
+    "cor": "rgb(147 42 42)",
+    "link": "https://www.alura.com.br/formacao-front-end",
+    "titulo": "7 Minutoz",
+    "id": 1,
+    "videos": [
+      {
+        "titulo": "Rap do Saitama (One Punch Man) - O HOMEM MAIS FORTE | NERD HITS",
+        "id": 1,
+        "url": "https://www.youtube.com/watch?v=NlQpa0ifFy8",
+        "categoriaId": 1
+      },
+      {
+        "titulo": "Rap do Boruto - FILHO DE UM HOKAGE | NERD HITS",
+        "id": 2,
+        "url": "https://www.youtube.com/watch?v=uqskSRxXTz8",
+        "categoriaId": 1
+      },
+      {
+        "titulo": "Rap do Gaara (Naruto) - ACHO QUE EU SOU UM MONSTRO... | NERD HITS",
+        "id": 3,
+        "url": "https://www.youtube.com/watch?v=KWqngXyY6_w",
+        "categoriaId": 1
+      },
+      {
+        "titulo": "Rap do Flash - O HOMEM MAIS RÁPIDO DO MUNDO | NERD HITS",
+        "id": 4,
+        "url": "https://www.youtube.com/watch?v=tKtV1InzvWM",
+        "categoriaId": 1
+      },
+      {
+        "titulo": "TE FALTA ÓDIO - Gabriel Rodrigues e Lucas A.R.T. [Prod. bezimenimusic]",
+        "id": 5,
+        "url": "https://www.youtube.com/watch?v=dNCO-UgMu6A",
+        "categoriaId": 1
+      },
+      {
+        "titulo": "Rap do Homem de Ferro (Vingadores: Ultimato) - EU SOU O HOMEM DE FERRO | NERD HITS",
+        "id": 6,
+        "url": "https://www.youtube.com/watch?v=R-9hB553mz4",
+        "categoriaId": 1
+      },
+      {
+        "titulo": "Rap do Sasuke (Naruto) - MALDIÇÃO DO ÓDIO | NERD HITS",
+        "id": 7,
+        "url": "https://www.youtube.com/watch?v=WYJ2hKTXKWA",
+        "categoriaId": 1
+      },
+      {
+        "titulo": "Rap do Thanos (Vingadores) - O THANOS ESTÁ VINDO | NERD HITS",
+        "id": 8,
+        "url": "https://www.youtube.com/watch?v=1kwPr91Vs-A",
+        "categoriaId": 1
+      },
+      {
+        "titulo": "Rap do Gohan (Dragon Ball Z) - A FÚRIA DE UM SAIYAJIN | NERD HITS",
+        "id": 9,
+        "url": "https://www.youtube.com/watch?v=0QQWwrs39As",
+        "categoriaId": 1
+      },
+      {
+        "titulo": "Rap do Bills (Dragon Ball Super) - DEUS DA DESTRUIÇÃO | NERD HITS",
+        "id": 10,
+        "url": "https://www.youtube.com/watch?v=XbUvowjHsAk",
+        "categoriaId": 1
+      },
+      {
+        "titulo": "Rap do Homem-Formiga - SOLDADO MICROSCÓPICO | NERD HITS",
+        "id": 11,
+        "url": "https://www.youtube.com/watch?v=BNakihwBX_M",
+        "categoriaId": 1
+      },
+      {
+        "titulo": "Rap do Doutor Estranho - MAGO SUPREMO DO UNIVERSO | NERD HITS",
+        "id": 12,
+        "url": "https://www.youtube.com/watch?v=AW7JllAXiBc",
+        "categoriaId": 1
+      },
+      {
+        "titulo": "Rap do Loki (Thor) - O DEUS DA MENTIRA | NERD HITS",
+        "id": 13,
+        "url": "https://www.youtube.com/watch?v=NiLIKstxk7U",
+        "categoriaId": 1
+      },
+      {
+        "titulo": "Rap do Rock Lee (Naruto) - A FORÇA DA MOTIVAÇÃO | NERD HITS",
+        "id": 14,
+        "url": "https://www.youtube.com/watch?v=XwAzVXBjvNo",
+        "categoriaId": 1
+      },
+      {
+        "titulo": "Rap da Hinata (Naruto) - SE FOR POR VOCÊ... | NERD HITS",
+        "id": 15,
+        "url": "https://www.youtube.com/watch?v=eWZ4V4IGcb4",
+        "categoriaId": 1
+      },
+      {
+        "titulo": "Rap do Maito Gai (Naruto) - O NINJA MAIS FORTE | NERD HITS",
+        "id": 16,
+        "url": "https://www.youtube.com/watch?v=i_NDEiPtnp8",
+        "categoriaId": 1
+      },
+      {
+        "titulo": "Rap do Freeza (Dragon Ball Super) - IMPERADOR DO UNIVERSO | NERD HITS",
+        "id": 17,
+        "url": "https://www.youtube.com/watch?v=9LPhHsjOm7U",
+        "categoriaId": 1
+      },
+      {
+        "titulo": "Rap do Coringa (Batman) - POR QUE ESTÁ TÃO SÉRIO? | NERD HITS",
+        "id": 18,
+        "url": "https://www.youtube.com/watch?v=9qhhY-YKLp0&t=1s",
+        "categoriaId": 1
+      },
+      {
+        "titulo": "Rap do Goku e Vegeta (Dragon Ball Super) - O HOMEM MAIS FORTE DO UNIVERSO | NERD HITS",
+        "id": 19,
+        "url": "https://www.youtube.com/watch?v=KRXrDOtta10",
+        "categoriaId": 1
+      },
+      {
+        "titulo": "Rap do All Might (Boku no Hero Academia) - O SÍMBOLO DA PAZ | NERD HITS",
+        "id": 20,
+        "url": "https://www.youtube.com/watch?v=JhYqNZNGLMM",
+        "categoriaId": 1
+      },
+      {
+        "titulo": "Rap do Escanor (Nanatsu no Taizai) - ORGULHOSO COMO UM LEÃO | NERD HITS",
+        "id": 21,
+        "url": "https://www.youtube.com/watch?v=xAftKacljfo",
+        "categoriaId": 1
+      },
+      {
+        "titulo": "Rap do Midoriya (Boku no Hero Academia) - EU TENHO QUE ACREDITAR | NERD HITS",
+        "id": 22,
+        "url": "https://www.youtube.com/watch?v=f3pfiUgL-PU",
+        "categoriaId": 1
+      }
+    ]
+  },
+  {
+    "link_extra": {
+      "text": "Canal do Enygma",
+      "url": "https://www.youtube.com/c/EnygmaRaps/"
+    },
+    "cor": "rgb(101 103 102)",
+    "titulo": "Enygma",
+    "id": 2,
+    "videos": [
+      {
+        "titulo": "Rap do Zoro (One Piece) | O Melhor Espadachim | Enygma 63",
+        "id": 23,
+        "url": "https://www.youtube.com/watch?v=8ko7S4Sli4w",
+        "categoriaId": 2
+      },
+      {
+        "titulo": "Rap do Yuu Otosaka (Charlotte) | O Ceifador Caolho | Enygma 64",
+        "id": 24,
+        "url": "https://www.youtube.com/watch?v=QV8gf8WuJYw",
+        "categoriaId": 2
+      },
+      {
+        "titulo": "Rap do Escanor (Nanatsu no Taizai) | Pecado do Orgulho | Enygma 37",
+        "id": 25,
+        "url": "https://www.youtube.com/watch?v=BHX2RcETZWY",
+        "categoriaId": 2
+      },
+      {
+        "titulo": "Rap do All Might (Boku no Hero Academia) | Símbolo da Paz | Enygma 32",
+        "id": 26,
+        "url": "https://www.youtube.com/watch?v=BgiaC4_T6Q4",
+        "categoriaId": 2
+      },
+      {
+        "titulo": "Rap do Midoriya Pt. II (Boku no Hero Academia) | Enygma 22 [prod. Epistra]",
+        "id": 27,
+        "url": "https://www.youtube.com/watch?v=87VF_BZ1-n8",
+        "categoriaId": 2
+      }
+    ]
+  },
+  {
+    "link_extra": {
+      "text": "Canal do Prometeus",
+      "url": "https://www.youtube.com/c/canalprometeus/"
+    },
+    "cor": "rgb(117 59 211)",
+    "titulo": "Prometeus",
+    "id": 3,
+    "videos": [
+      {
+        "titulo": "FANTASMA DO PASSADO (ft. Thiago Gouvin)",
+        "id": 28,
+        "url": "https://www.youtube.com/watch?v=Zn2ApWN51pk",
+        "categoriaId": 3
+      },
+      {
+        "titulo": "UMA NOVA JORNADA (A New Journey / LoL Anime Trailer / Português)",
+        "id": 29,
+        "url": "https://www.youtube.com/watch?v=JJ--E4I8Owo",
+        "categoriaId": 3
+      },
+      {
+        "titulo": "GUARDIÃO ESTELAR ♪",
+        "id": 30,
+        "url": "https://www.youtube.com/watch?v=BJ_Ed5BcPvA",
+        "categoriaId": 3
+      }
+    ]
+  },
+  {
+    "link_extra": {
+      "text": "Canal da Felicia Rock",
+      "url": "https://www.youtube.com/c/Fel%C3%ADciaRockOficial/"
+    },
+    "cor": "pink",
+    "titulo": "Felícia Rock",
+    "id": 4,
+    "videos": [
+      {
+        "titulo": "RAP EXISTENCIAL - \"Tô Distante\" (ANIME MIX) | FELÍCIA ROCK [Prod. ]",
+        "id": 31,
+        "url": "https://www.youtube.com/watch?v=9-_ZCxbv7Ks",
+        "categoriaId": 4
+      },
+      {
+        "titulo": "POR NÓS DOIS - Tanjiro & Nezuko (KIMETSU NO YAIBA) FELÍCIA ROCK [Prod. Sidney Scaccio]",
+        "id": 32,
+        "url": "https://www.youtube.com/watch?v=xaMHvN2eZRw",
+        "categoriaId": 4
+      },
+      {
+        "titulo": "A FORÇA EM MEU OLHAR - Hinata Hyuga (NARUTO) FELÍCIA ROCK",
+        "id": 33,
+        "url": "https://www.youtube.com/watch?v=p43ZIpdDh48",
+        "categoriaId": 4
+      },
+      {
+        "titulo": "HERÓI DO ESCUDO - Naofumi (TATE NO YUUSHA) | FELÍCIA ROCK [Prod. Sidney Scaccio]",
+        "id": 34,
+        "url": "https://www.youtube.com/watch?v=e_dn7Nq9n9k",
+        "categoriaId": 4
+      },
+      {
+        "titulo": "SEREI TUA ESPADA ( Raphtalia - TATE NO YUUSHA) | FELÍCIA ROCK",
+        "id": 35,
+        "url": "https://www.youtube.com/watch?v=0MXp-w-3TJg",
+        "categoriaId": 4
+      },
+      {
+        "titulo": "A COR DA MORTE (MISAKI MEI - ANOTHER) | FELÍCIA ROCK",
+        "id": 36,
+        "url": "https://www.youtube.com/watch?v=fdZyiy-Clf8",
+        "categoriaId": 4
+      },
+      {
+        "titulo": "RAP DA MAKISE KURISU (STEINS GATE) | FELÍCIA ROCK",
+        "id": 37,
+        "url": "https://www.youtube.com/watch?v=hJ8TbKvFhP0",
+        "categoriaId": 4
+      },
+      {
+        "titulo": "RAP DA KUSHIDA - YOU JITSU - DUPLA FACE | FELÍCIA ROCK",
+        "id": 38,
+        "url": "https://www.youtube.com/watch?v=9gFfZUw53bI",
+        "categoriaId": 4
+      },
+      {
+        "titulo": "RAP DO KANEKI - TOKYO GHOUL- Me Pergunto: quem eu sou? | FELÍCIA ROCK",
+        "id": 39,
+        "url": "https://www.youtube.com/watch?v=u4UQkf17Jog",
+        "categoriaId": 4
+      },
+      {
+        "titulo": "RAP DA PANDORA - CAVALEIROS DO ZODÍACO [SAINT SEIYA] FELÍCIA ROCK",
+        "id": 40,
+        "url": "https://www.youtube.com/watch?v=U7PR9_jelr4",
+        "categoriaId": 4
+      }
+    ]
+  },
+  {
+    "link_extra": {
+      "text": "Canal do Stings Raps",
+      "url": "https://www.youtube.com/c/StingRaps/videos"
+    },
+    "cor": "#9c9c04",
+    "titulo": "Stings Raps",
+    "id": 5,
+    "videos": [
+      {
+        "titulo": "Rap do Sung Jin Woo (Solo Leveling) | Monarca das Sombras | Sting",
+        "id": 41,
+        "url": "https://www.youtube.com/watch?v=NazO2IoXjE4",
+        "categoriaId": 5
+      },
+      {
+        "titulo": "Rap da Rias Gremory - (High School DxD) - A PRINCESA DA RUÍNA - Sting",
+        "id": 42,
+        "url": "https://www.youtube.com/watch?v=6YMbzMzVAhE",
+        "categoriaId": 5
+      },
+      {
+        "titulo": "Rap do Luck \"O Louco Sorridente\" (Black Clover) - Sting/Yondax",
+        "id": 43,
+        "url": "https://www.youtube.com/watch?v=H1l1kGxQg64",
+        "categoriaId": 5
+      },
+      {
+        "titulo": "Rap do Cao Cao - Humano - (High School DxD Hero) - Sting",
+        "id": 44,
+        "url": "https://www.youtube.com/watch?v=waXOLRDQExY",
+        "categoriaId": 5
+      },
+      {
+        "titulo": "Rap Me Sinto Só - (High School DxD) - Sting",
+        "id": 45,
+        "url": "https://www.youtube.com/watch?v=BzsMjPiqgHQ",
+        "categoriaId": 5
+      }
+    ]
+  },
+  {
+    "link_extra": {
+      "text": "Canal do Lendarios",
+      "url": "https://www.youtube.com/c/Lendarios/"
+    },
+    "cor": "rgba(46, 46, 46)",
+    "titulo": "Lendarios",
+    "id": 6,
+    "videos": [
+      {
+        "titulo": "RAP THE PROMISSED NEVERLAND - Liberdade (Acústico) | Lendarios",
+        "id": 46,
+        "url": "https://www.youtube.com/watch?v=sw1l48uikIk",
+        "categoriaId": 6
+      },
+      {
+        "titulo": "RAP DO ITACHI (Naruto) - Não Peço Que Possa Me Perdoar | Lendarios",
+        "id": 47,
+        "url": "https://www.youtube.com/watch?v=23MRhUwpfXk",
+        "categoriaId": 6
+      },
+      {
+        "titulo": "RAP DO ALL MIGHT - VOU SEMPRE SORRIR | Lendarios",
+        "id": 48,
+        "url": "https://www.youtube.com/watch?v=RVnRo25MQwQ",
+        "categoriaId": 6
+      }
+    ]
+  }
+]

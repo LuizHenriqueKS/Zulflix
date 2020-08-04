@@ -4,13 +4,17 @@ import PageDefault from '../../components/PageDefault';
 import BannerMain from '../../components/BannerMain';
 import Carousel from '../../components/Carousel';
 
+const videosIniciais = require('./data.json');
+
 function Home() {
   const [dadosIniciais, setDadosInicias] = useState([]);
 
   useEffect(() => {
+    setDadosInicias(videosIniciais);
     categoriasRepository.getAllWithVideos()
       .then((categoriasComVideos) => {
         setDadosInicias(categoriasComVideos);
+        console.log(JSON.stringify(categoriasComVideos));
       })
       .catch((err) => {
         console.log(err);
